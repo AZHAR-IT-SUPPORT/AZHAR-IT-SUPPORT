@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Azhar
 
-<!--
-**AZHAR-IT-SUPPORT/AZHAR-IT-SUPPORT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 IT Support & Cyber Security Learner
 
-Here are some ideas to get you started:
+I am building my practical skills in Information Technology, IT Support, Networking, Linux, Windows and Cyber Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning by doing — building practical projects, solving technical problems and continuously improving my skills.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- 💻 IT Support & Troubleshooting
+- 🪟 Windows
+- 🐧 Linux
+- 🌐 Networking
+- 🔐 Cyber Security Fundamentals
+- 🛡️ OSINT & Security Research
+- 🐚 Termux & Linux Commands
+- 🔧 System Administration Basics
+- 🐍 Python Basics
+- 🔀 Git & GitHub
+
+---
+
+## 🚀 What I'm Learning
+
+- IT Support
+- Networking
+- Cyber Security
+- Linux
+- Python
+- Git & GitHub
+- System Troubleshooting
+- Practical Security Labs
+
+---
+
+## 📂 My Projects
+
+### 🔹 IT Support Toolkit
+Practical tools and guides for common IT support and troubleshooting tasks.
+
+### 🔹 Networking Lab
+Practical networking concepts including IP addresses, DNS, TCP/IP and troubleshooting.
+
+### 🔹 Linux Lab
+Linux commands, system administration basics and practical exercises.
+
+### 🔹 Cyber Security Labs
+Beginner-friendly security labs and authorized security research projects.
+
+### 🔹 Portfolio Website
+My personal professional portfolio showcasing my skills and projects.
+
+---
+
+## 🎯 My Goal
+
+To build a professional career in IT Support and Cyber Security by developing strong practical skills and real-world projects.
+
+---
+
+## 📚 Learning Approach
+
+> Learn → Practice → Build → Document → Improve
+
+I am continuously working on practical projects and documenting my learning journey on GitHub.
+
+---
+
+## 📫 Connect With Me
+
+GitHub: **AZHAR-IT-SUPPORT**
+
+---
+
+⭐ Thanks for visiting my profile!
