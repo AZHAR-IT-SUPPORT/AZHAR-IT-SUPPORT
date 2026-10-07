@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./Muhammad_Azhar_FULL_SIZE_GitHub_1min.gif"
-       width="100%"
-       alt="Muhammad Azhar - IT Support & Cyber Security">
-</p>
+<img src="./muhammad-azhar.jpg" width="100%" alt="Muhammad Azhar">
 
 # Hi 👋 I'm Muhammad Azhar
 
