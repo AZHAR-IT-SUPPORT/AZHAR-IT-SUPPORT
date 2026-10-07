@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./github_3d_animated_banner.gif" width="100%" alt="Muhammad Azhar 3D Tech Banner">
+  <img src="./Muhammad_Azhar_FULL_SIZE_GitHub_1min.gif"
+       width="100%"
+       alt="Muhammad Azhar - IT Support & Cyber Security">
 </p>
 
 # Hi 👋 I'm Muhammad Azhar
