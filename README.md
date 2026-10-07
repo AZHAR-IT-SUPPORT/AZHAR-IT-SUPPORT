@@ -1,4 +1,3 @@
-<img src="./30272.pdf" width="100%" alt="Muhammad Azhar">
 
 # Hi 👋 I'm Muhammad Azhar
 
