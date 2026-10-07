@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_3d_animated_banner.gif" width="100%" alt="Muhammad Azhar 3D Tech Banner">
+</p>
+
 # Hi 👋 I'm Muhammad Azhar
 
 ### 💻 IT Support & Cyber Security Learner
